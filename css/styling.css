@@ -1,6 +1,7 @@
 body{
     position: center;
     text-align: center;
+    justify-content: center;
 }
 .ovacado{
     position: center;
